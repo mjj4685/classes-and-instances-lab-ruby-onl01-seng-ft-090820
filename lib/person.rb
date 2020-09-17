@@ -2,6 +2,6 @@ class Person
 
 def
 
-adele_goldberg = Person.new
+adele_goldberg=Person.new
 
-alan_kay = Person.new
+alan_kay=Person.new
