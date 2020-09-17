@@ -1,6 +1,6 @@
 class Person
 
-def 
+def
 
   adele_goldberg = Person.new
 
